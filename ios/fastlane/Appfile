@@ -1,0 +1,8 @@
+app_identifier("com.lyhourpay.mpwt") # The bundle identifier of your app
+apple_id("lyhourpay@gmail.com") # Your Apple email address
+
+itc_team_id("119383897") # App Store Connect Team ID
+team_id("Q9F656U6UX") # Developer Portal Team ID
+
+# For more information about the Appfile, see:
+#     https://docs.fastlane.tools/advanced/#appfile

@@ -1,0 +1,57 @@
+PODS:
+  - barcode_scan (0.0.1):
+    - Flutter
+    - MTBBarcodeScanner
+  - Flutter (1.0.0)
+  - flutter_udid (0.0.1):
+    - Flutter
+    - SAMKeychain
+  - MTBBarcodeScanner (5.0.11)
+  - package_info (0.0.1):
+    - Flutter
+  - plugins (0.0.1):
+    - Flutter
+  - SAMKeychain (1.5.3)
+  - shared_preferences (0.0.1):
+    - Flutter
+
+DEPENDENCIES:
+  - barcode_scan (from `.symlinks/plugins/barcode_scan/ios`)
+  - Flutter (from `.symlinks/flutter/ios-release`)
+  - flutter_udid (from `.symlinks/plugins/flutter_udid/ios`)
+  - package_info (from `.symlinks/plugins/package_info/ios`)
+  - plugins (from `.symlinks/plugins/plugins/ios`)
+  - shared_preferences (from `.symlinks/plugins/shared_preferences/ios`)
+
+SPEC REPOS:
+  https://github.com/CocoaPods/Specs.git:
+    - MTBBarcodeScanner
+    - SAMKeychain
+
+EXTERNAL SOURCES:
+  barcode_scan:
+    :path: ".symlinks/plugins/barcode_scan/ios"
+  Flutter:
+    :path: ".symlinks/flutter/ios-release"
+  flutter_udid:
+    :path: ".symlinks/plugins/flutter_udid/ios"
+  package_info:
+    :path: ".symlinks/plugins/package_info/ios"
+  plugins:
+    :path: ".symlinks/plugins/plugins/ios"
+  shared_preferences:
+    :path: ".symlinks/plugins/shared_preferences/ios"
+
+SPEC CHECKSUMS:
+  barcode_scan: 33f586d02270046fc6559135038b34b5754eaa4f
+  Flutter: 0e3d915762c693b495b44d77113d4970485de6ec
+  flutter_udid: e698e58df29cd728c7e3f061e13a8e0d93376f51
+  MTBBarcodeScanner: f453b33c4b7dfe545d8c6484ed744d55671788cb
+  package_info: 48b108e75b8802c2d5e126f208ef540561c98aef
+  plugins: 42b78ef58ded8b5f60f770648c815c51487c7c02
+  SAMKeychain: 483e1c9f32984d50ca961e26818a534283b4cd5c
+  shared_preferences: 1feebfa37bb57264736e16865e7ffae7fc99b523
+
+PODFILE CHECKSUM: 98f6865b00c68e0262ba8ef394250097a9615aea
+
+COCOAPODS: 1.8.4
